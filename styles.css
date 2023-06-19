@@ -1,0 +1,46 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    overflow-x: hidden;
+}
+
+.side-hero {
+    position: relative;
+    background-position: center;
+    background-size: auto;
+    max-width: 640px;
+}
+
+img.resize {
+    height: 100vh;
+}
+
+div.logo {
+    background: #1c1c1c;
+    opacity: 70%;
+
+    position: absolute;
+    top: 15em;
+    width: 100%;
+    
+    color: whitesmoke;
+    text-align: center;
+    text-justify: center;
+    font: 600;
+}
+
+img.logo-img {
+    width: 100px;
+    height: auto;
+}
+
+.img-credits {
+    position: absolute;
+    bottom: 8px;
+    max-width: 100%;
+    text-align: center;
+    width: 100%;
+
+    color: white;
+}
