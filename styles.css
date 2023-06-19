@@ -149,9 +149,23 @@ button.create-account {
     height: 3.5rem;
     
     margin-left: 8rem;
+    margin-bottom: 2rem;
 }
 
 .create-account:focus {
     outline: none;
     box-shadow: 2px 3px 5px rgb(177, 175, 175);
+}
+
+.log-in {
+    color: #bbbdc2;
+    margin-left: 8rem;
+}
+
+.log-in a {
+    color: #596D48;
+}
+
+.log-in a:hover {
+    text-shadow: 0px 1px 2px #bbbdc2;
 }
